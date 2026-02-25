@@ -2,8 +2,6 @@
 
 A machine learning project that detects fraudulent transactions in real time using a trained ML model and a Streamlit web app.
 
-🔗 [https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download]
-
 ## App Preview
 ![Fraud Detection App](app_screenshot.png)
 
@@ -14,7 +12,7 @@ A machine learning project that detects fraudulent transactions in real time usi
 
 ## Dataset
 The dataset is not included in this repository due to its large size (470MB).
-You can download it from Kaggle and place it in the project folder before running.
+you can access the dataset from this link 🔗 [https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download]
 
 ## How to Run
 1. Download the dataset and place it in the project folder
@@ -39,3 +37,4 @@ python -m streamlit run fraud_detection.py
 ## Author
 
 Devanarayanan
+
