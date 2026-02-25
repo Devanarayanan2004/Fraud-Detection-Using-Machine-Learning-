@@ -2,6 +2,8 @@
 
 A machine learning project that detects fraudulent transactions in real time using a trained ML model and a Streamlit web app.
 
+🔗 [https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download]
+
 ## App Preview
 ![Fraud Detection App](app_screenshot.png)
 
@@ -35,4 +37,5 @@ python -m streamlit run fraud_detection.py
 - Jupyter Notebook
 
 ## Author
+
 Devanarayanan
